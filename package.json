@@ -1,0 +1,12 @@
+{
+  "name": "hello-bot",
+  "version": "0.0.0",
+  "description": "A Bot that says hello.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.0.2"
+  }
+}
