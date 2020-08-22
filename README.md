@@ -1,4 +1,5 @@
 # Hello-Bot
+![Discord](https://img.shields.io/discord/607331881368813619?logo=discord)  
 A Bot that says Hello
 
 # Installation
